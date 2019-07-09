@@ -18,4 +18,5 @@ Example output:
 
 ![Directory Listing](images/directory_listing.png)
 
+Agent Resource Information from `slave_resources.json` file.
 ![Resource Info](images/resource_info.png)
