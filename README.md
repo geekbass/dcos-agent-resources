@@ -16,8 +16,6 @@ Go to your browser to `http://master_public_ip:8000` and open `slave_resources.j
 
 Example output:
 
-Directory Listing.
 ![Directory Listing](images/directory_listing.png)
 
-Agent Resource Information.
 ![Resource Info](images/resource_info.png)
